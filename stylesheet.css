@@ -1,0 +1,75 @@
+ .logo {
+    position: absolute;
+    float:left;
+    border:solid black;
+    height: 100px;
+    width: 100px;
+  }
+  .logo2
+  {
+  	position: absolute;
+    top:7px;
+    right:45px;
+    border:solid black;
+    height: 100px;
+    width: 100px;
+  }
+
+body {
+  background-color:	#FFEBCD;
+}
+
+.text1
+{
+	font-style: oblique;
+	position:absolute;
+  right:500px;
+  top:10px;	
+}
+.div
+{
+	height:110px;
+background-color:#DC143C;
+}
+.text {
+  font-size:40px;
+  font-weight:bold;
+  position:absolute;
+  right:500px;
+  top:5px;
+}
+.info
+{
+	position:absolute;
+	top:150px;
+	left:700px;
+}
+.cover{
+    margin: auto;
+    width: 50%;
+    border:solid black;
+}
+
+.work {
+  height:220px;
+  width:320px;
+  border:solid black;
+}
+.main
+{
+	position:absolute;
+	top:600px;
+	left:10px;
+}
+.work2
+{
+	position:absolute;
+	top:600px;
+	left:500px;	
+}
+.work3
+{
+	position:absolute;
+	top:600px;
+	left:1000px;	
+}
